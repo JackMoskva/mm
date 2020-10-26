@@ -1,0 +1,624 @@
+@media (max-width: 1300px) {
+  .carousel-caption {
+    top: 7%;
+  }
+}
+
+@media (max-width: 1200px) {
+  /* -------------------- ADDITIONAL SERVICES -------------------- */
+
+  .btn-next {
+    right: -25px;
+  }
+
+  .btn-prev {
+    left: -25px;
+  }
+
+  /* -------------------- END ADDITIONAL SERVICES -------------------- */
+}
+
+@media (max-width: 1199.98px) {
+  .carousel-caption {
+    top: 3%;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+    line-height: 2.625rem;
+  }
+
+  .banner-line {
+    margin-bottom: 40px;
+  }
+
+  .work-card .card-img-top {
+    max-height: 205px;
+    min-height: 205px;
+  }
+
+  .card-description {
+    background: url(../img/mobile.png) no-repeat bottom right / 15%, linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  }
+
+  /* ---------- SERVICES ---------- */
+
+  .services-page .service {
+    margin-right: 10px;
+  }
+
+  .price-card-text {
+    min-height: 120px;
+  }
+
+  /* ---------- END SERVICES ---------- */
+
+  /* -------------------- OPEN WORK -------------------- */
+
+  .nav-pages .nav-link {
+    margin-right: 60px;
+  }
+
+  /* -------------------- END OPEN WORK -------------------- */
+
+  /* -------------------- VACANCIES -------------------- */
+
+  .vacancies-card {
+    min-height: 335px;
+  }
+
+  /* -------------------- END VACANCIES -------------------- */
+
+  /* -------------------- ADDITIONAL SERVICES -------------------- */
+
+  .btn-next {
+    right: -12px;
+  }
+
+  .btn-prev {
+    left: -12px;
+  }
+
+  /* -------------------- END ADDITIONAL SERVICES -------------------- */
+}
+
+@media (max-width: 991.98px) {
+  .header-logo {
+    width: 80%;
+  }
+
+  .navbar-light .navbar-nav {
+    align-items: flex-start;
+  }
+
+  .navbar-toggler:focus {
+    border-color: #57BB97;
+    outline: none;
+  }
+
+  .navbar-toggler:focus .navbar-toggler-icon {
+    background-image: url(../img/burger-line.svg);
+  }
+
+  .carousel-caption {
+    top: 0;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+    line-height: 2.125rem;
+  }
+
+  h2 {
+    font-size: 1.625rem;
+    line-height: 2rem;
+  }
+
+  .carousel-indicators li {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 7px;
+    margin-left: 7px;
+  }
+
+  .services-row {
+    margin-bottom: 0;
+  }
+
+  .nav-work .nav-link {
+    margin-right: 40px;
+  }
+
+  .footer-logo-img {
+    width: 75%;
+  }
+
+  /* ---------- SERVICES ---------- */
+
+  .service-description {
+    max-width: 100%;
+  }
+
+  .services-page .service {
+    margin-right: 50px;
+  }
+
+  .price-card-text {
+    min-height: 65px;
+  }
+
+  /* ---------- END SERVICES ---------- */
+
+  /* -------------------- OPEN WORK -------------------- */
+
+  .nav-pages .nav-link {
+    margin-right: 15px;
+  }
+
+  /* -------------------- END OPEN WORK -------------------- */
+
+  /* -------------------- ABOUT US -------------------- */
+
+  .about-banner {
+    padding-bottom: 10rem;
+  }
+
+  .history-steps .steps-line-two {
+    width: 100%;
+    height: 2px;
+    left: 0;
+    right: 0;
+    top: auto;
+    bottom: 6.4rem;
+    z-index: 100;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(200, 200, 200, 1) 10%, rgba(200, 200, 200, 1) 90%, rgba(255, 255, 255, 1) 100%);
+  }
+
+  /* -------------------- END ABOUT US -------------------- */
+
+  /* -------------------- CONTACTS -------------------- */
+
+  .contacts-page-text {
+    margin-bottom: 4rem;
+  }
+
+  .mb-15 {
+    margin-bottom: 4rem;
+  }
+
+  .contacts-page-text {
+    margin-bottom: 2rem;
+  }
+
+  /* -------------------- END CONTACTS -------------------- */
+
+  /* -------------------- VACANCIES -------------------- */
+
+  .vacancies-card {
+    min-height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1.25rem;
+  }
+
+  /* -------------------- END VACANCIES -------------------- */
+
+  /* -------------------- WEBSITE DEVELOPMENT -------------------- */
+
+  .website-why-text {
+    padding: 2rem;
+  }
+
+  /* -------------------- END WEBSITE DEVELOPMENT -------------------- */
+
+  /* -------------------- ADDITIONAL SERVICES -------------------- */
+
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .escort-card {
+    min-width: 280px;
+    max-width: 280px;
+  }
+
+  .btn-next {
+    right: -5px;
+  }
+
+  .btn-prev {
+    left: -5px;
+  }
+
+  /* -------------------- END ADDITIONAL SERVICES -------------------- */
+}
+
+@media (max-width: 767.98px) {
+  .header-phone {
+    padding-left: 20px;
+    font-size: 14px;
+  }
+
+  .header-mail {
+    padding-left: 25px;
+    font-size: 14px;
+  }
+
+  .navbar-brand {
+    width: 75%;
+  }
+
+  .header-logo {
+    width: 60%;
+  }
+
+  .banner-mobile {
+    background: #253f49;
+  }
+
+  section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .title-line {
+    margin-bottom: 50px;
+  }
+
+  .steps-line-two {
+    width: 100%;
+    height: 2px;
+    left: 0;
+    right: 0;
+    top: auto;
+    bottom: 104px;
+    z-index: 100;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(200, 200, 200, 1) 10%, rgba(200, 200, 200, 1) 90%, rgba(255, 255, 255, 1) 100%);
+  }
+
+  .nav-work .nav-link {
+    margin-right: 0;
+  }
+
+  .work-card .card-img-top {
+    max-height: 100%;
+    min-height: auto;
+  }
+
+  .discuss {
+    background: #253f49;
+  }
+
+  .footer-logo-img {
+    width: 60%;
+  }
+
+  .footer-title {
+    margin-bottom: 30px;
+  }
+
+  .footer-contact-list .contact-list-item {
+    margin-bottom: 20px;
+  }
+
+  /* ---------- SERVICES ---------- */
+
+  .services-page .service {
+    margin-right: 15px;
+  }
+
+  .price-card-title {
+    max-width: 100%;
+    min-height: auto;
+  }
+
+  /* ---------- END SERVICES ---------- */
+
+  /* -------------------- OPEN WORK -------------------- */
+
+  .screen-tabs .nav-link span {
+    font-size: 1.025rem;
+    line-height: 1.125rem;
+  }
+
+  .screen-img {
+    max-height: 400px;
+  }
+
+  div.jx-controller {
+    height: 50px;
+    width: 50px;
+    margin-left: -23px;
+  }
+
+  /* -------------------- END OPEN WORK -------------------- */
+
+  /* -------------------- ABOUT US -------------------- */
+
+  .mission-item {
+    max-width: 100%;
+  }
+
+  .mission-item-text {
+    font-size: 1rem;
+    line-height: 1.125rem;
+  }
+
+  .history-steps .steps-line-two {
+    bottom: 7.9rem;
+  }
+
+  /* -------------------- END ABOUT US -------------------- */
+
+  /* -------------------- VACANCIES -------------------- */
+
+  .vacancies-card {
+    min-height: auto;
+  }
+
+  .vacancies-card-title {
+    min-height: auto;
+  }
+
+  /* -------------------- END VACANCIES -------------------- */
+
+  /* -------------------- ADDITIONAL SERVICES -------------------- */
+
+  .btn-next {
+    right: 55px;
+  }
+
+  .btn-prev {
+    left: 55px;
+  }
+
+  /* -------------------- END ADDITIONAL SERVICES -------------------- */
+}
+
+@media (max-width: 575.98px) {
+  h1 {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.125rem;
+    line-height: 1.125rem;
+  }
+
+  .service-text {
+    font-size: 16px;
+    line-height: 18px;
+  }
+
+  .why-text {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 40px;
+  }
+
+  .why-card-text {
+    font-size: 16px;
+    line-height: 18px;
+  }
+
+  /* ---------- SERVICES ---------- */
+
+  .banner-content-item {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .mb-10 {
+    margin-bottom: 60px;
+  }
+
+  .services-page .service {
+    margin-right: 15px;
+    max-width: 120px;
+    min-width: 120px;
+  }
+
+  .service-icon {
+    width: 100px;
+    height: 100px;
+  }
+
+  .service-icon svg {
+    width: 50px;
+    height: 50px;
+  }
+
+  .services-line {
+    width: 80px;
+  }
+
+  .service-description {
+    font-size: 12px;
+    line-height: 16px;
+    padding-top: 5px;
+  }
+
+  /* ---------- END SERVICES ---------- */
+
+  /* -------------------- ABOUT US -------------------- */
+
+  .about-banner {
+    padding-bottom: 5rem;
+  }
+
+  .history {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+
+  .history-steps .steps-line-two {
+    bottom: auto;
+    top: 14.2rem;
+  }
+
+  .history-steps .steps-line-three {
+    top: 25.4rem;
+  }
+
+  .history-steps .steps-line-four {
+    top: 36.5rem;
+  }
+
+  .dev-content-item {
+    padding: 0.525rem;
+  }
+
+  .philosophy {
+    padding-top: 8rem;
+    padding-bottom: 10rem;
+  }
+
+  .about-services {
+    padding-bottom: 10rem;
+  }
+
+  /* -------------------- END ABOUT US -------------------- */
+
+  /* -------------------- CONTACTS -------------------- */
+
+  .mb-15 {
+    margin-bottom: 0;
+  }
+
+  /* -------------------- END CONTACTS -------------------- */
+
+  /* -------------------- WEBSITE DEVELOPMENT -------------------- */
+
+  .website-why-text {
+    padding: 1rem;
+  }
+
+  /* -------------------- END WEBSITE DEVELOPMENT -------------------- */
+
+  /* -------------------- ADDITIONAL SERVICES -------------------- */
+
+  .btn-next {
+    right: 15px;
+  }
+
+  .btn-prev {
+    left: 15px;
+  }
+
+  /* -------------------- END ADDITIONAL SERVICES -------------------- */
+}
+
+@media (max-width: 320px) {
+  .navbar-brand {
+    width: 70%;
+  }
+
+  h1 {
+    font-size: 1.125rem;
+    line-height: 1.625rem;
+  }
+
+  h2 {
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+
+  .service-text {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .why-card-text {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  /* ---------- SERVICES ---------- */
+
+  .banner-content-item {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .banner-content-line {
+    height: 16px;
+  }
+
+  .services-page .service {
+    margin-right: 15px;
+  }
+
+  /* ---------- END SERVICES ---------- */
+
+  /* -------------------- ABOUT US -------------------- */
+
+  .about-text {
+    font-size: 0.875rem;
+    line-height: 1.250rem;
+  }
+
+  .mission-item-title {
+    font-size: 0.875rem;
+    line-height: 1.250rem;
+  }
+
+  .mission-item-text {
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
+
+  .history-steps .step-item-text {
+    font-size: 1rem;
+    line-height: 1.250rem;
+  }
+
+  .dev-content-item {
+    font-size: 0.775rem;
+    line-height: 0.975rem;
+  }
+
+  .philosophy {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+
+  .philosophy-text {
+    font-size: 0.875rem;
+    line-height: 1.250rem;
+  }
+
+  .philosophy-tagline {
+    font-size: 0.875rem;
+    line-height: 1.250rem;
+  }
+
+  .about-services-text {
+    font-size: 0.875rem;
+    line-height: 1.250rem;
+  }
+
+  /* -------------------- END ABOUT US -------------------- */
+
+  /* -------------------- ADDITIONAL SERVICES -------------------- */
+
+  .escort-card {
+    min-width: 240px;
+    max-width: 240px;
+    min-height: 200px;
+  }
+
+  .btn-next {
+    right: 8px;
+  }
+
+  .btn-prev {
+    left: 8px;
+  }
+
+  /* -------------------- END ADDITIONAL SERVICES -------------------- */
+}
